@@ -1,7 +1,3 @@
-Aqui está um **README.md** adequado para o seu projeto de **Sistema de Gestão para Salão de Beleza**, baseado nos arquivos analisados e na estrutura do código. Ele fornece informações essenciais para o repositório do GitHub. 
-
----
-
 ### **Sistema de Gestão para Salão de Beleza**
 
 **Versão:** 1.0  
