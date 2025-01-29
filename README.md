@@ -13,14 +13,31 @@ O **SaloonProject** é um sistema desktop desenvolvido em **Java** para gerencia
 A interface gráfica foi construída utilizando **Swing**, com um banco de dados **MySQL** para armazenamento das informações.  
 
 ---
+![{CC83237C-9D65-4472-BA32-FD3AE8E4CF92}](https://github.com/user-attachments/assets/6a3124f5-6fd6-437c-b4cb-cdb7dfba161c)
 
 ## 🚀 **Funcionalidades**
 
 ✅ **Gerenciamento de Usuários:** Cadastro, edição e remoção de funcionários e clientes.  
+
+![{2EED3C7E-6176-4BD0-8BDA-6A59BC28BC51}](https://github.com/user-attachments/assets/0b835f7d-96d8-4f0e-99fe-2088c90606ce)
+
+![{4614854D-00FF-4EDC-BE07-F92D078D8E66}](https://github.com/user-attachments/assets/1739ae75-2204-47d6-a0df-d8a6387d0909)
+
 ✅ **Cadastro de Serviços:** Registra serviços disponíveis, com valores e percentuais de comissão.  
+
+![{DC6AC2C3-16F6-4808-AF5F-264D8A050A12}](https://github.com/user-attachments/assets/ee64d5e6-d027-4af4-bebf-9e00a1a5eff5)
+
 ✅ **Registro de Serviços Realizados:** Associa um serviço a um cliente e prestador, com cálculo automático de comissão.  
+
+![{58D91D12-31AF-4296-8159-5E04F0F2BEFD}](https://github.com/user-attachments/assets/4e73add5-ef0a-409f-b110-1d30ab12676a)
+
 ✅ **Relatórios Financeiros:** Geração de relatórios detalhados por período e prestador, exportáveis em **PDF** ou **Excel**.  
+
+* Em desenvolvimento
+
 ✅ **Controle de Acesso:** Diferencia permissões entre administradores e usuários comuns.  
+
+Usuarios comuns não tem acesso a emissão de relatórios, cadasto de usuários e cadastro de novo tipo de serviço. Essas funções ficam para os usuários de tipo admin.
 
 ---
 
